@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tasks</string>
+
+    <string name="title_hint">Please enter a title</string>
+    <string name="description_hint">Please enter a description</string>
+    <string name="priority_hint">Please select a priority</string>
+
+    <string name="menu_item_delete_all_tasks">Delete All</string>
+</resources>
